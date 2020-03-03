@@ -1,0 +1,1837 @@
+
+  timelineObjects = [ {
+    
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "placeId" : "ChIJGyG97AFKXBMRqhTZUivrx7o",
+        "address" : "East Shore\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Lefkas Marina S.A.",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558778440953",
+        "endTimestampMs" : "1558801776005"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388302213,
+      "centerLngE7" : 207129481
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388299748,
+        "longitudeE7" : 207124074,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388308798,
+        "longitudeE7" : 207056942,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558801776005",
+        "endTimestampMs" : "1558802637012"
+      },
+      "distance" : 640,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 96.18106207636978
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.700900416372466
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.288504365137274
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 388288612,
+          "lngE7" : 207100963
+        }, {
+          "latE7" : 388308143,
+          "lngE7" : 207059059
+        }, {
+          "latE7" : 388307762,
+          "lngE7" : 207057628
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388308798,
+        "longitudeE7" : 207056942,
+        "placeId" : "ChIJUURd5ANKXBMRFo_psY-npFE",
+        "address" : "Ηρ. Πολυτεχνείου 9\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Supermarket ΒΛΑΧΟΣ",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558802637012",
+        "endTimestampMs" : "1558803201017"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388310100,
+      "centerLngE7" : 207059750
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388311957,
+        "longitudeE7" : 207064518,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388302646,
+        "longitudeE7" : 207129695,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558803201017",
+        "endTimestampMs" : "1558808947014"
+      },
+      "distance" : 1711,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.71981711823386
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 3.457015346163219
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 1.558973301307701
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 388311309,
+          "lngE7" : 207064895
+        }, {
+          "latE7" : 388444366,
+          "lngE7" : 207181224
+        }, {
+          "latE7" : 388321151,
+          "lngE7" : 207152843
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "placeId" : "ChIJGyG97AFKXBMRqhTZUivrx7o",
+        "address" : "East Shore\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Lefkas Marina S.A.",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558808947014",
+        "endTimestampMs" : "1558857101005"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388301570,
+      "centerLngE7" : 207128550
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388303082,
+        "longitudeE7" : 207130041,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388210387,
+        "longitudeE7" : 207201820,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558857101005",
+        "endTimestampMs" : "1558858029421"
+      },
+      "distance" : 1222,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 41.95944744131562
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.32599070932037
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 7.500627876780573
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388210387,
+        "longitudeE7" : 207201820,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387682533,
+        "longitudeE7" : 207330008,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558858029421",
+        "endTimestampMs" : "1558860774031"
+      },
+      "distance" : 6024,
+      "activityType" : "CYCLING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 30.196022246670793
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 27.43318466252641
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 9.625537110498747
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 388211288,
+          "lngE7" : 207156524
+        }, {
+          "latE7" : 387691116,
+          "lngE7" : 207234477
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 387682533,
+        "longitudeE7" : 207330008,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387524029,
+        "longitudeE7" : 207416124,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558860774031",
+        "endTimestampMs" : "1558863255967"
+      },
+      "distance" : 2161,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 46.21008821190911
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 21.29268317823232
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 7.336971710900457
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 387691116,
+          "lngE7" : 207234477
+        }, {
+          "latE7" : 387697677,
+          "lngE7" : 207214050
+        }, {
+          "latE7" : 387448730,
+          "lngE7" : 207287483
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 387524029,
+        "longitudeE7" : 207416124,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387376672,
+        "longitudeE7" : 207429337,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558863255967",
+        "endTimestampMs" : "1558863909975"
+      },
+      "distance" : 1642,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 9.946600726443556
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 33.42025274762375
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 25.884704451604755
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 387376672,
+        "longitudeE7" : 207429337,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387566554,
+        "longitudeE7" : 207682026,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558863909975",
+        "endTimestampMs" : "1558866557822"
+      },
+      "distance" : 3148,
+      "activityType" : "SAILING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "SAILING",
+        "probability" : 36.51853346130912
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 27.529827126853878
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 21.987722621852797
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 381367060,
+        "longitudeE7" : 209983515,
+        "placeId" : "ChIJrfWd3B2nXBMR9VtXl4rvBnk",
+        "address" : "Ionio Pelagos",
+        "name" : "Ionio Pelagos",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558866557822",
+        "endTimestampMs" : "1558868288026"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 387566600,
+      "centerLngE7" : 207678650
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 387538654,
+        "longitudeE7" : 207686116,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387220175,
+        "longitudeE7" : 207843015,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558868288026",
+        "endTimestampMs" : "1558879945956"
+      },
+      "distance" : 6924,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 10.615771411057148
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 46.26457961320763
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 22.36640362833305
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "placeId" : "ChIJId3jT97LXRMRx275k9hq0Jw",
+        "address" : "Μεγανήσι 310 83\nΕλλάδα",
+        "name" : "Bathý",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558879945956",
+        "endTimestampMs" : "1558881837009"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386657856,
+      "centerLngE7" : 207813044
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386634517,
+        "longitudeE7" : 207819980,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558881837009",
+        "endTimestampMs" : "1558886184589"
+      },
+      "distance" : 757,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 64.0653046832437
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 22.219041880192
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 4.183957730625939
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386634902,
+          "lngE7" : 207812347
+        }, {
+          "latE7" : 386632347,
+          "lngE7" : 207820320
+        }, {
+          "latE7" : 386634025,
+          "lngE7" : 207821559
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "placeId" : "ChIJId3jT97LXRMRx275k9hq0Jw",
+        "address" : "Μεγανήσι 310 83\nΕλλάδα",
+        "name" : "Bathý",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558886184589",
+        "endTimestampMs" : "1558886586995"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386641533,
+      "centerLngE7" : 207814100
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386646071,
+        "longitudeE7" : 207810566,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558886586995",
+        "endTimestampMs" : "1558889017130"
+      },
+      "distance" : 1903,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 52.2503342922509
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 31.751510085466496
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 5.841491876605801
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386646499,
+          "lngE7" : 207807884
+        }, {
+          "latE7" : 386675453,
+          "lngE7" : 207654438
+        }, {
+          "latE7" : 386638374,
+          "lngE7" : 207809181
+        }, {
+          "latE7" : 386634902,
+          "lngE7" : 207812347
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "placeId" : "ChIJId3jT97LXRMRx275k9hq0Jw",
+        "address" : "Μεγανήσι 310 83\nΕλλάδα",
+        "name" : "Bathý",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558889017130",
+        "endTimestampMs" : "1558891731062"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386651114,
+      "centerLngE7" : 207813414
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386653815,
+        "longitudeE7" : 207813757,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386644412,
+        "longitudeE7" : 207843639,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558891731062",
+        "endTimestampMs" : "1558892139024"
+      },
+      "distance" : 488,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 74.52838321327995
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 12.000142385463159
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 4.421857199282055
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386650886,
+          "lngE7" : 207807731
+        }, {
+          "latE7" : 386636161,
+          "lngE7" : 207836551
+        }, {
+          "latE7" : 386646118,
+          "lngE7" : 207845191
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386633712,
+        "longitudeE7" : 207846187,
+        "placeId" : "ChIJ0XTN0a7LXRMRDfV_Q8Je0H4",
+        "address" : "Vathi meganisiou\nΒαθύ 310 83\nΕλλάδα",
+        "name" : "Stavros Restaurant And Taverna",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558892139024",
+        "endTimestampMs" : "1558897905019"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386637914,
+      "centerLngE7" : 207843671
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386634970,
+        "longitudeE7" : 207851429,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386654355,
+        "longitudeE7" : 207810184,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558897905019",
+        "endTimestampMs" : "1558898585937"
+      },
+      "distance" : 941,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 48.72632689634531
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 26.994594163169722
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 11.324851342790813
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386635017,
+          "lngE7" : 207851238
+        }, {
+          "latE7" : 386636161,
+          "lngE7" : 207836551
+        }, {
+          "latE7" : 386651344,
+          "lngE7" : 207807235
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "placeId" : "ChIJId3jT97LXRMRx275k9hq0Jw",
+        "address" : "Μεγανήσι 310 83\nΕλλάδα",
+        "name" : "Bathý",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558898585937",
+        "endTimestampMs" : "1558905784142"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386651080,
+      "centerLngE7" : 207811440
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386636705,
+        "longitudeE7" : 207815490,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387068436,
+        "longitudeE7" : 208434981,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558905784142",
+        "endTimestampMs" : "1558953018544"
+      },
+      "distance" : 10070,
+      "activityType" : "SAILING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "SAILING",
+        "probability" : 37.914540149498876
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 25.907525406927494
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.59684139230405
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 387068436,
+        "longitudeE7" : 208434981,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386656614,
+        "longitudeE7" : 209224692,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558953018544",
+        "endTimestampMs" : "1558957799097"
+      },
+      "distance" : 9958,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 13.758575580482507
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 43.499444237479565
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 29.35126282741633
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386656614,
+        "longitudeE7" : 209224692,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386302250,
+        "longitudeE7" : 209543480,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558957799097",
+        "endTimestampMs" : "1558961398124"
+      },
+      "distance" : 7105,
+      "activityType" : "SAILING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "SAILING",
+        "probability" : 33.7609923474534
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 31.904573257316255
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 20.140200698595166
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386341855,
+        "longitudeE7" : 209634108,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386248488,
+        "longitudeE7" : 209380852,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558961398124",
+        "endTimestampMs" : "1558962218230"
+      },
+      "distance" : 2436,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 19.927143538404888
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 50.54782680912319
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 20.506455905169492
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386248488,
+        "longitudeE7" : 209380852,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386230821,
+        "longitudeE7" : 209324494,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558962218230",
+        "endTimestampMs" : "1558963104116"
+      },
+      "distance" : 528,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 28.990200098258455
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 24.668944116417162
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 13.207552077928192
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386238632,
+          "lngE7" : 209381809
+        }, {
+          "latE7" : 386224937,
+          "lngE7" : 209318065
+        }, {
+          "latE7" : 386231079,
+          "lngE7" : 209323081
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386224168,
+        "longitudeE7" : 209317650,
+        "placeId" : "ChIJJZAUCZLRXRMRaoAt_v5pT5U",
+        "address" : "Πέλαγος\nΕλλάδα",
+        "name" : "Kalamos Port",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558963104116",
+        "endTimestampMs" : "1558968532081"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386221288,
+      "centerLngE7" : 209313975
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386216561,
+        "longitudeE7" : 209297054,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386224168,
+        "longitudeE7" : 209317650,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558968532081",
+        "endTimestampMs" : "1558971189002"
+      },
+      "distance" : 1318,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.0537710894884
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 10.028908932221196
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 4.148224023302002
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386218223,
+          "lngE7" : 209296569
+        }, {
+          "latE7" : 386218643,
+          "lngE7" : 209306335
+        }, {
+          "latE7" : 386231765,
+          "lngE7" : 209321308
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386224168,
+        "longitudeE7" : 209317650,
+        "placeId" : "ChIJJZAUCZLRXRMRaoAt_v5pT5U",
+        "address" : "Πέλαγος\nΕλλάδα",
+        "name" : "Kalamos Port",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558971189002",
+        "endTimestampMs" : "1559024134365"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386227182,
+      "centerLngE7" : 209322824
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386231589,
+        "longitudeE7" : 209324611,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 384829709,
+        "longitudeE7" : 208208802,
+        "placeId" : "ChIJqf05GPDDXRMR31GgbD6vhXI",
+        "address" : "Πέλαγος\nΕλλάδα",
+        "name" : "Atoko ionian island",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559024134365",
+        "endTimestampMs" : "1559035529093"
+      },
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 9.463375632357359
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 33.53362625505933
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 23.88246715913836
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 384829709,
+        "longitudeE7" : 208208802,
+        "placeId" : "ChIJqf05GPDDXRMR31GgbD6vhXI",
+        "address" : "Πέλαγος\nΕλλάδα",
+        "name" : "Atoko ionian island",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559035529093",
+        "endTimestampMs" : "1559039280924"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 384840060,
+      "centerLngE7" : 208206900
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 384839245,
+        "longitudeE7" : 208206446,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 384838328,
+        "longitudeE7" : 208249206,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559039280924",
+        "endTimestampMs" : "1559040644014"
+      },
+      "distance" : 372,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 28.774687342112127
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 25.404944972477956
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.557946560156793
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 384650039,
+          "lngE7" : 207798442
+        }, {
+          "latE7" : 384648666,
+          "lngE7" : 207799472
+        }, {
+          "latE7" : 384647293,
+          "lngE7" : 207800521
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 384838328,
+        "longitudeE7" : 208249206,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 384049517,
+        "longitudeE7" : 207225726,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559040644014",
+        "endTimestampMs" : "1559045993015"
+      },
+      "distance" : 12852,
+      "activityType" : "SAILING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "SAILING",
+        "probability" : 37.78882687982497
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 37.69294287786645
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 23.141134052863183
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 384049517,
+        "longitudeE7" : 207225726,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 383655116,
+        "longitudeE7" : 207155355,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559045993015",
+        "endTimestampMs" : "1559049181006"
+      },
+      "distance" : 5925,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 7.589736165865885
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 32.88757521425877
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 27.072557523192213
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 383655116,
+        "longitudeE7" : 207155355,
+        "placeId" : "ChIJ7xinfkzrXRMRBdrlvut6R2w",
+        "address" : "Επαρ.Οδ. Κιόνιου - Πέρα Πηγάδιου\nΒαθύ 283 00\nΕλλάδα",
+        "name" : "Vathi Ithaki",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559049181006",
+        "endTimestampMs" : "1559050642259"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 383663460,
+      "centerLngE7" : 207147080
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 383655116,
+        "longitudeE7" : 207155355,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 383649437,
+        "longitudeE7" : 207183391,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559050642259",
+        "endTimestampMs" : "1559056005024"
+      },
+      "distance" : 381,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.97334020073727
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.8755419370584723
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 2.615334818567854
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 383654327,
+          "lngE7" : 207154159
+        }, {
+          "latE7" : 383647804,
+          "lngE7" : 207179508
+        }, {
+          "latE7" : 383649406,
+          "lngE7" : 207181644
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 383645741,
+        "longitudeE7" : 207195755,
+        "placeId" : "ChIJ8SOxt07rXRMRuBfVvwT10Vo",
+        "address" : "Βαθύ 283 00\nΕλλάδα",
+        "name" : "Hall Drakoulis",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559056005024",
+        "endTimestampMs" : "1559057982085"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 383647029,
+      "centerLngE7" : 207190586
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 383643904,
+        "longitudeE7" : 207185374,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 383655116,
+        "longitudeE7" : 207155355,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559057982085",
+        "endTimestampMs" : "1559058984016"
+      },
+      "distance" : 507,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 77.43008837450238
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.883833338099516
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 4.198550340326175
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 383643913,
+          "lngE7" : 207185420
+        }, {
+          "latE7" : 383647804,
+          "lngE7" : 207179508
+        }, {
+          "latE7" : 383654327,
+          "lngE7" : 207154159
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 383655116,
+        "longitudeE7" : 207155355,
+        "placeId" : "ChIJ7xinfkzrXRMRBdrlvut6R2w",
+        "address" : "Επαρ.Οδ. Κιόνιου - Πέρα Πηγάδιου\nΒαθύ 283 00\nΕλλάδα",
+        "name" : "Vathi Ithaki",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559058984016",
+        "endTimestampMs" : "1559116125013"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 383665286,
+      "centerLngE7" : 207142614
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 383670244,
+        "longitudeE7" : 207135314,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 383721818,
+        "longitudeE7" : 207090324,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559116125013",
+        "endTimestampMs" : "1559116664802"
+      },
+      "distance" : 694,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 36.772699738137305
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 27.701400505965008
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 10.213645120250856
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 383667526,
+          "lngE7" : 207135028
+        }, {
+          "latE7" : 383649101,
+          "lngE7" : 207169075
+        }, {
+          "latE7" : 383729324,
+          "lngE7" : 207100238
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 383721818,
+        "longitudeE7" : 207090324,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386226340,
+        "longitudeE7" : 206825653,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559116664802",
+        "endTimestampMs" : "1559133338011"
+      },
+      "distance" : 29579,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 19.040221855557686
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 42.20225166229944
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 27.40742269704085
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386227589,
+        "longitudeE7" : 206816678,
+        "placeId" : "ChIJuRHVhL63XRMRkzFka3mW6lc",
+        "address" : "082\nLefkas 31\nPatra 263 33\nGreece",
+        "name" : "Sivota Lefkadas",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559133338011",
+        "endTimestampMs" : "1559138229622"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386234557,
+      "centerLngE7" : 206818943
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386227589,
+        "longitudeE7" : 206816678,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386225700,
+        "longitudeE7" : 206820580,
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559138229622",
+        "endTimestampMs" : "1559138363287"
+      },
+      "distance" : 225,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.4323637241285
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.566992020366051
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 3.9266435617536226
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386234664,
+          "lngE7" : 206816616
+        }, {
+          "latE7" : 386228370,
+          "lngE7" : 206820964
+        }, {
+          "latE7" : 386221313,
+          "lngE7" : 206823463
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386225700,
+        "longitudeE7" : 206820580,
+        "placeId" : "ChIJuQSjjb63XRMRuW8hjSoZAHE",
+        "address" : "Σύβοτα Λευκάδας\n310 82\nΕλλάδα",
+        "name" : "Sivota Lodges & Boats",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559138363287",
+        "endTimestampMs" : "1559201941037"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 386223192,
+      "centerLngE7" : 206824577
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386223065,
+        "longitudeE7" : 206824932,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 387069113,
+        "longitudeE7" : 206471357,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559201941037",
+        "endTimestampMs" : "1559206536014"
+      },
+      "distance" : 15626,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 59.523370575507364
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 13.134188741376141
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 12.608808730834884
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 386222572,
+          "lngE7" : 206822948
+        }, {
+          "latE7" : 386672172,
+          "lngE7" : 206504344
+        }, {
+          "latE7" : 387074089,
+          "lngE7" : 206474761
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 387066464,
+        "longitudeE7" : 206407300,
+        "placeId" : "ChIJR8EI2hS0XRMRxkD45hmYnpQ",
+        "address" : "Lefkada\nHellas",
+        "name" : "Lefkada",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559206536014",
+        "endTimestampMs" : "1559207016963"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 386205500,
+      "centerLngE7" : 207195800
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386209165,
+        "longitudeE7" : 207197695,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386674381,
+        "longitudeE7" : 207935766,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559207016963",
+        "endTimestampMs" : "1559215682857"
+      },
+      "distance" : 13209,
+      "activityType" : "SKIING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "SKIING",
+        "probability" : 61.00002615860552
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 12.716679872665265
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 8.05351628394079
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 386562617,
+        "longitudeE7" : 207778071,
+        "placeId" : "ChIJB9f8NBDJXRMRnvXyITq1WBo",
+        "address" : "Meganisi\nHellas",
+        "name" : "Meganisi",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559215682857",
+        "endTimestampMs" : "1559290396001"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 386674709,
+      "centerLngE7" : 207938082
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386474505,
+        "longitudeE7" : 207682445,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 386880875,
+        "longitudeE7" : 207897810,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559290396001",
+        "endTimestampMs" : "1559291652003"
+      },
+      "distance" : 5456,
+      "activityType" : "IN_FERRY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_FERRY",
+        "probability" : 23.38407386778039
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 33.47661096572494
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 23.87988561460436
+      } ]
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 386880875,
+        "longitudeE7" : 207897810,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388294152,
+        "longitudeE7" : 207146855,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559291652003",
+        "endTimestampMs" : "1559303895052"
+      },
+      "distance" : 21771,
+      "activityType" : "SKIING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "SKIING",
+        "probability" : 65.05878499587934
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 9.244451433049045
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 6.902610903991301
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "placeId" : "ChIJGyG97AFKXBMRqhTZUivrx7o",
+        "address" : "East Shore\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Lefkas Marina S.A.",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559303895052",
+        "endTimestampMs" : "1559306369957"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388304400,
+      "centerLngE7" : 207135750
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388310632,
+        "longitudeE7" : 207130313,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388311134,
+        "longitudeE7" : 207130683,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559306369957",
+        "endTimestampMs" : "1559311699987"
+      },
+      "distance" : 722,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 82.2892589952376
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 6.503519414751013
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.5024133256133005
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "placeId" : "ChIJGyG97AFKXBMRqhTZUivrx7o",
+        "address" : "East Shore\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Lefkas Marina S.A.",
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559311699987",
+        "endTimestampMs" : "1559316095084"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388309000,
+      "centerLngE7" : 207122600
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388312103,
+        "longitudeE7" : 207129851,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388332091,
+        "longitudeE7" : 207073084,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559316095084",
+        "endTimestampMs" : "1559317706023"
+      },
+      "distance" : 1338,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 79.59951175861707
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.011902318888765
+      }, {
+        "activityType" : "BOATING",
+        "probability" : 4.060120650862711
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 388321533,
+          "lngE7" : 207152595
+        }, {
+          "latE7" : 388397331,
+          "lngE7" : 207148952
+        }, {
+          "latE7" : 388331871,
+          "lngE7" : 207073307
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388347314,
+        "longitudeE7" : 207097433,
+        "placeId" : "ChIJm6lBhP9JXBMRDxh42amApRE",
+        "address" : "Λευκάδα 311 00\nΕλλάδα",
+        "name" : "La Vinaria",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559317706023",
+        "endTimestampMs" : "1559325618009"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 388342900,
+      "centerLngE7" : 207086730
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 388353876,
+        "longitudeE7" : 207096778,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "sourceInfo" : {
+          "deviceTag" : -2083340992
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559325618009",
+        "endTimestampMs" : "1559326543137"
+      },
+      "distance" : 874,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.3418042384694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.702243144286551
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 1.7212986282715366
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 388353843,
+          "lngE7" : 207096920
+        }, {
+          "latE7" : 388316612,
+          "lngE7" : 207079410
+        }, {
+          "latE7" : 388290977,
+          "lngE7" : 207099113
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 388300900,
+        "longitudeE7" : 207119750,
+        "placeId" : "ChIJGyG97AFKXBMRqhTZUivrx7o",
+        "address" : "East Shore\nΛευκάδα 311 00\nΕλλάδα",
+        "name" : "Lefkas Marina S.A.",
+        "sourceInfo" : {
+          "deviceTag" : 1853829560
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559326543137",
+        "endTimestampMs" : "1559362199108"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 388307880,
+      "centerLngE7" : 207117360
+    }
+  } ]
